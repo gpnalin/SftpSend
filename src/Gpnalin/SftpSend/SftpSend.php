@@ -1,3 +1,4 @@
+<?php
 namespace Gpnalin\SftpSend;
 
 class SftpSend
