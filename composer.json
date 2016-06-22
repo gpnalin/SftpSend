@@ -1,5 +1,5 @@
 {
-    "name": "gpnalin/SftpSend",
+    "name": "gpnalin/sftp-send",
     "autoload": {
         "psr-0" : {
             "Gpnalin\\SftpSend" : "src"
