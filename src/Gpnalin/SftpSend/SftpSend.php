@@ -1,3 +1,5 @@
+namespace Gpnalin\SftpSend;
+
 class SftpSend
 {
     private $connection;
